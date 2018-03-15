@@ -1,0 +1,29 @@
+div {
+  font-family: Cabin;
+  line-height: 1.6
+}
+body {
+  font-size: 12px;
+  font-weight: 100;
+}
+h1 {
+  font-size: 80px;
+  font-weight: 800;
+}
+h2 {
+  font-size: 36px;
+  font-weight: 400;
+}
+.left, .right {
+  float: left;
+  width: 15%; 
+}
+.main {
+  float: center;
+  width: 70%; 
+  padding: 50px 70px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
