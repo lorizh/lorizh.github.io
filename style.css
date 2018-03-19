@@ -29,15 +29,13 @@ h2 {
 	float: left;
 	width: 15%; 
 }
-.container{
+.description {
+	font-size: 12px;
+	justify-content: center;
+	align-items: center;
 	float: center;
 	width: 70%; 
 	padding: 50px 70px; 
 	display: flex;
 	padding-left: 0;
-}
-.description {
-	font-size: 12px;
-	justify-content: center;
-	align-items: center;
 }
