@@ -13,14 +13,14 @@ h2 {
 	font-weight: 400;
 }
 .fill1 {
-	background: FFFFFF;
+	background-color: ffffff;
 	width: 100%;
 	max-width: 24em;
 	margin: 0 auto;
 	padding: 0.25em 0.625em;	
 }
 .fill2 {
-	background: 808080;
+	background-color: 808080;
 	width: 100%;
 	max-width: 24em;
 	margin: 0 auto;
