@@ -21,8 +21,6 @@ h2 {
 .fill2 {
 	background-color: #808080;
 	width: 100%;
-	width: 100vw;
-	overflow-x: hidden;
 }
 }
 .left, .right {
