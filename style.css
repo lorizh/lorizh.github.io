@@ -22,7 +22,7 @@ h2 {
 .fill2 {
 	background-color: #808080;
 	width: 100vw;
-}
+	display: flex;
 }
 .left, .right {
 	float: left;
