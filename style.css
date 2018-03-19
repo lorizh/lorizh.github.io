@@ -1,9 +1,8 @@
-div, span, body {
+div, span, body, p {
 	font-family: Cabin;
 	color: 000000;
 	line-height: 1.6;
 	font-weight: 100;
-	width: 100vw;	
 }
 h1 {
 	font-size: 70px;
@@ -23,7 +22,7 @@ h2 {
 	background-color: #808080;
 	width: 100vw;
 	display: flex;
-	padding-left: 0;
+	padding: 0;
 }
 .left, .right {
 	float: left;
@@ -37,5 +36,6 @@ h2 {
 	width: 70%; 
 	padding: 50px 70px; 
 	display: flex;
-	padding-left: 0;
 }
+
+
