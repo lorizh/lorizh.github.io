@@ -1,5 +1,5 @@
 div, body, content {
-	font-family: Cabin;
+	font-family: Verdana;
 	color: 000000;
 	line-height: 1.6;
 	font-weight: 100;
@@ -13,7 +13,7 @@ h2 {
 	font-weight: 400;
 }
 .fill1 {
-	background-color: ffffff;
+	background-color: #ffffff;
 	width: 100%;
 	max-width: 24em;
 	margin: 0 auto;
