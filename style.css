@@ -22,7 +22,7 @@ h2 {
 	background-color: #808080;
 	width: 100%;
 	width: 100vw;
-	margin-left: -9999px;
+	overflow-x: hidden;
 }
 }
 .left, .right {
