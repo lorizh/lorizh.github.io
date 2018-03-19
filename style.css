@@ -1,30 +1,32 @@
 div, body, content {
-	font-family: Verdana;
+	font-family: Cabin;
 	color: 000000;
 	line-height: 1.6;
 	font-weight: 100;
+
 }
 h1 {
-	font-size: 80px;
+	font-size: 70px;
 	font-weight: 800;
 }
 h2 {
 	font-size: 36px;
 	font-weight: 400;
 }
-.fill1 {
-	background-color: #ffffff;
+.fill2 {
+	background-color: #808080;
 	width: 100%;
 	max-width: 24em;
 	margin: 0 auto;
 	padding: 0.25em 0.625em;	
 }
-.fill2 {
-	background-color: 808080;
-	width: 100%;
-	max-width: 24em;
+}
+.section2 {
+	display: flex;
+	align-items: center;
+	width: 800px;
+	justify-content: space-between;
 	margin: 0 auto;
-	padding: 0.25em 0.625em;	
 }
 .left, .right {
 	float: left;
