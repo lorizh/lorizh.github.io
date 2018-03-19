@@ -8,6 +8,7 @@ div, span, body {
 h1 {
 	font-size: 70px;
 	font-weight: 800;
+	line-height: 1.1;
 }
 h2 {
 	font-size: 36px;
