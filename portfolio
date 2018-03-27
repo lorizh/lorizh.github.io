@@ -1,11 +1,28 @@
 <!DOCTYPE html>
 <html>
-<title>PORT</title>
-<!-- navigation -->
+<head>
+  <title>PORT</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Cabin" />
+</head>	
+
+<!-- top navigation -->
+<ul>
+		<li><a href="#top" class="navigation">HOME</a></li>
+		<li><a href="#two" class="navigation">ABOUT</a></li>
+		<li><a class="nav--current" href="http://lorizh/lorizh.github.io/portfolio" class="navigation">PORTFOLIO</a></li>
+</ul>
+<div class="contact">
+		<a href="mailto:plaudit@live.com" id="e-mail">E-mail</a>
+</div>
+
 <!-- sidebar -->
-<nav class="sidebar">
-<a href="#" class="sb--link"></a>
-</nav>
+	<nav class="sidebar">
+    <a href="#tag1" class="sb--link">designs</a>
+    <a href="#tag1" class="sb--link">sketches</a>
+    <a href="#tag1" class="sb--link">digital</a>
+    <a href="#tag2" class="sb--link">traditional</a> 
+	</nav>
 <!-- content -->
 <div class="left">
 </div>
