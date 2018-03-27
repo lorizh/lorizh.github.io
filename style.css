@@ -81,6 +81,10 @@ li a:hover{
 .contact a:hover{
 right: 0;
 }
+.e-mail{
+    bottom: 200px;
+    background-color: #334045;
+}
 .fixedbg {
 	background-image: url("http://static.tumblr.com/imovwvl/geokwmc65/background.png");
 	min-height: 100%; 
