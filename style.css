@@ -103,10 +103,17 @@ right: 0;
     background-color: #334045;
 }
 .floatingbutton{
+	background-color:#000;
+	color:#fff;
+	display:inline-block;
+	padding-left:8px;
+	padding-right:8px;
+	text-align:center;
+	
 	opacity: 0.50;
 	position: absolute;
 	top: 50%;
-	left: 25%;
+	left: 50%;
 	white-space: nowrap;
 }
 .buttontext{
