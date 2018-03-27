@@ -52,12 +52,15 @@ ul{
 	padding: 0;
 	overflow: hidden;
 	background-color: #fafafa;
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
 li {
 	float: left;
 }
 li a{
-	display: inline;
+	display: block;
 	color: #fff;
 	text-align: center;
 	padding: 14px 100px;
@@ -99,7 +102,7 @@ right: 0;
 }
 .floatingbutton{
 	position: relative;
-	opacity:0.75;
+	opacity: 65%;
 	position: absolute;
 	top: 50%;
 	left: 50%;
