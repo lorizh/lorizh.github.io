@@ -66,6 +66,7 @@ li a:hover{
 }
 .nav--current {
 	color:#000;
+	border-top-right-radius, border-top-left-radius: 25px;
 }
 .fixedbg {
 	background-image: url("http://static.tumblr.com/imovwvl/geokwmc65/background.png");
