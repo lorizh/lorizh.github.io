@@ -60,12 +60,12 @@ li a{
 	padding: 14px 16px;
 	text-decoration: none;
 }
-li a:hover:not(.nav--current) {
+li a:hover{
 	color:#f44336;
 	background-color:#fff;
 }
 .nav--current {
-	color:#fff;
+	color:#000;
 }
 .fixedbg {
 	background-image: url("http://static.tumblr.com/imovwvl/geokwmc65/background.png");
