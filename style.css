@@ -24,10 +24,7 @@ h2 {
 	padding:0.01em 16px
 }
 .fill3{
-	content:"";
-	display:table;
-	clear:both;
-	max-width:980px;
+	min-width:cover;
 	margin:auto;
 	padding:64px 16px;
 	background-color:#616161;
@@ -104,7 +101,7 @@ right: 0;
 	background-size: cover;
 }
 .floatingbutton{
-	opacity: 0.65;
+	opacity: 0.50;
 	position: absolute;
 	top: 50%;
 	left: 50%;
