@@ -54,7 +54,7 @@ ul{
 	background-color: #fafafa;
 	position: fixed;
 	top: 0;
-	width: 100%;
+	width: 80%;
 }
 li {
 	float: left;
@@ -73,7 +73,7 @@ li a:hover{
 }
 .nav--current {
 	color:#000;
-	border-radius: 10px 10px 0 0;
+	background-color:#fff;
 }
 .contact{
 	position: absolute;
