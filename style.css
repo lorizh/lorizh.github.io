@@ -66,11 +66,11 @@ li a{
 li a:hover{
 	color:#f44336;
 	background-color:#fff;
-	border-top-right-radius, border-top-left-radius: 40px;
+	border-radius: 10px 10px 0 0;
 }
 .nav--current {
 	color:#000;
-	border-top-right-radius, border-top-left-radius: 40px;
+	border-radius: 10px 10px 0 0;
 }
 .contact{
 	position: absolute;
