@@ -53,9 +53,12 @@ ul{
 	overflow: hidden;
 	background-color: #fafafa;
 }
+li {
+	float: left;
+}
 li a{
 	display: inline;
-	color: white;
+	color: #fff;
 	text-align: center;
 	padding: 14px 100px;
 	text-decoration: none;
@@ -63,6 +66,7 @@ li a{
 li a:hover{
 	color:#f44336;
 	background-color:#fff;
+	border-top-right-radius, border-top-left-radius: 40px;
 }
 .nav--current {
 	color:#000;
@@ -72,7 +76,7 @@ li a:hover{
 	position: absolute;
 	right: -80px;
 	padding: 15px;
-	border-radius: 5 0px 0px 5;
+	border-radius: 5px 0 0 5px;
 	transition: 0.2s;
 	font-size: 20px;
 	color: #fff;
