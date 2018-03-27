@@ -104,11 +104,17 @@ right: 0;
 }
 .fixedbg {
 	background-image: url("https://themoreitravel.files.wordpress.com/2015/05/p1060456.jpg");
+	display: block;
 	min-height: 100%; 
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.fixedbg:before {
+content: "";
+    display: block;
+    padding-top: 100%;  
 }
 .floatingbutton{
 	opacity: 0.50;
