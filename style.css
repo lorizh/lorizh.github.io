@@ -57,7 +57,7 @@ li a{
 	display: inline;
 	color: white;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 14px 100px;
 	text-decoration: none;
 }
 li a:hover{
@@ -66,7 +66,7 @@ li a:hover{
 }
 .nav--current {
 	color:#000;
-	border-top-right-radius, border-top-left-radius: 25px;
+	border-top-right-radius, border-top-left-radius: 40px;
 }
 .fixedbg {
 	background-image: url("http://static.tumblr.com/imovwvl/geokwmc65/background.png");
