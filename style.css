@@ -71,3 +71,9 @@ h1 {
 	font-size: 70px !important;
 	font-weight: 800 !important;
 }
+.fill2 {
+	height: 800px;
+	background-color: #fafafa;
+	font-size: 12px;
+	text-align: center;
+}
