@@ -21,7 +21,7 @@ div, span, body, p {
 #nav a{
 	display: block;
 	text-decoration: none;
-	font-size: 15px;
+	font-size: 18px;
 	color: #000;
 	text-align: center;
 	padding: 0.5em 2.5em;
@@ -36,13 +36,13 @@ div, span, body, p {
 }
 #contact a {
 	position: absolute;
-	right: 0px;
+	right: -20px;
 	transition: 0.3s;
 	text-decoration: none;
 	font-size: 15px;
 	color: #fff;
-	padding: -150px;
-	width: 40px;
+	padding: 10px;
+	width: 50px;
 }
 
 #contact a:hover {
