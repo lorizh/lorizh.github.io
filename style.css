@@ -1,7 +1,7 @@
 div, span, body, p {
 	font-family: Cabin;
-	letter-spacing: 0.1em;
-	word-spacing: 1.2em;
+	letter-spacing: 0.05em;
+	word-spacing: 0.5em;
 	color: 000000;
 	line-height: 1.6;
 	font-weight: 100;
