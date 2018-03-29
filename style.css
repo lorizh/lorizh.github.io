@@ -1,7 +1,7 @@
 div, span, body, p {
 	font-family: Cabin;
 	letter-spacing: 0.05em;
-	word-spacing: 0.5em;
+	word-spacing: 0.1em;
 	color: 000000;
 	line-height: 1.6;
 	font-weight: 100;
@@ -71,7 +71,6 @@ div, span, body, p {
 h1 {
 	font-size: 70px !important;
 	font-weight: 800 !important;
-	line-height: 0.5 !important;
 }
 .fill2 {
 	height: 800px;
