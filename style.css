@@ -65,6 +65,7 @@ div, span, body, p {
 .fill1 {
 	height: 800px;
 	background-color: #fff;
+	background-size: cover;
 	font-size: 14px;
 	text-align: center;
 }
@@ -75,6 +76,7 @@ h1 {
 .fill2 {
 	height: 800px;
 	background-color: #fafafa;
+	background-size: cover;
 	font-size: 14px;
 	text-align: center;
 }
