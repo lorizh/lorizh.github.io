@@ -1,4 +1,4 @@
-<div id="navigation">
+<div id="nav">
 <ul>
 <li<?php if ($thisPage=="HOME") 
 echo " id=\"currentpage\""; ?>>
