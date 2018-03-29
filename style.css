@@ -52,7 +52,7 @@ div, span, body, p {
 }
 /*sections*/
 .bg--fixed {
-	background-image: url("\images\default.jpg");
+	background-image: url("images/default.jpg");
 	min-height: 100%; 
 	background-attachment: fixed;
 	background-position: center;
