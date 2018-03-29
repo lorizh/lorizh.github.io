@@ -21,7 +21,7 @@ div, span, body, p {
 #nav a{
 	display: block;
 	text-decoration: none;
-	font-size: 25px;
+	font-size: 15px;
 	color: #000;
 	text-align: center;
 	padding: 0.5em 2.5em;
@@ -42,7 +42,6 @@ div, span, body, p {
 	font-size: 15px;
 	color: #fff;
 	padding: -150px;
-	overflow: hidden;
 	width: 40px;
 }
 
