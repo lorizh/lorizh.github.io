@@ -1,0 +1,38 @@
+div, span, body, p {
+	font-family: Cabin;
+	color: 000000;
+	line-height: 1.6;
+	font-weight: 100;
+}
+<!-- navigation -->
+#nav ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0;
+	overflow: hidden;
+	background-color: #fafafa;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+#nav li {
+	float: left;
+}
+#nav a{
+	display: block;
+	color: #000;
+	text-align: center;
+	padding: 14px 100px;
+	text-decoration: none;
+}
+#nav a:hover{
+	color:#f44336;
+	background-color:#fff;
+}
+.nav--current {
+	color:#000;
+	background-color:#fff;
+
+.mySidenav a:hover{
+right: 0;
+}
