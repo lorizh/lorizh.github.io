@@ -63,21 +63,12 @@ div, span, body, p {
 	position: fixed;
 }
 .fill1 {
-	height: 800px;
-	background-color: #fff;
-	background-size: cover;
-	font-size: 14px;
-	text-align: center;
+
 }
 h1 {
 	font-size: 70px !important;
 	font-weight: 800 !important;
 }
 .fill2 {
-	height: 800px;
-	background-color: #fafafa;
-	background-size: cover;
-	font-size: 14px;
-	text-align: center;
-	overflow-x: hidden; 
+
 }
