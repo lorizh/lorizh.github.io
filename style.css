@@ -20,10 +20,11 @@ div, span, body, p {
 }
 #nav a{
 	display: block;
+	text-decoration: none;
+	font-size: 25px;
 	color: #000;
 	text-align: center;
 	padding: 0.5em 2.5em;
-	text-decoration: none;
 }
 #nav a:hover{
 	color:#f44336;
@@ -37,12 +38,12 @@ div, span, body, p {
 	position: absolute;
 	right: 0px;
 	transition: 0.3s;
-	padding: -150px;
-	overflow: hidden;
-	width: 40px;
 	text-decoration: none;
 	font-size: 15px;
 	color: #fff;
+	padding: -150px;
+	overflow: hidden;
+	width: 40px;
 }
 
 #contact a:hover {
