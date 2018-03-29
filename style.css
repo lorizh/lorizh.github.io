@@ -62,6 +62,7 @@ div, span, body, p {
 	background-size: cover;
 }
 .fill1 {
+	top:
 	height: 800px;
 	background-color: #fff;
 	font-size: 14px;
@@ -70,6 +71,7 @@ div, span, body, p {
 h1 {
 	font-size: 70px !important;
 	font-weight: 800 !important;
+	line-height: 0.5 !important;
 }
 .fill2 {
 	height: 800px;
