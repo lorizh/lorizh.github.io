@@ -36,19 +36,17 @@ div, span, body, p {
 }
 #contact a {
 	position: absolute;
-	right: -20px;
+	right: 0px;
 	transition: 0.3s;
 	text-decoration: none;
-	font-size: 15px;
-	color: #fff;
 	padding: 10px;
 	width: 50px;
 }
 
 #contact a:hover {
-	right: 0;
+	right: 10;
 }
 #email{
 	bottom: 80px;
-	background-color: #f1f1f1;
+	background-color: #fff;
 }
