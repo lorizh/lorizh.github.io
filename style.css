@@ -60,9 +60,9 @@ div, span, body, p {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	position: fixed;
 }
 .fill1 {
-	top:
 	height: 800px;
 	background-color: #fff;
 	font-size: 14px;
