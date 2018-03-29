@@ -1,6 +1,6 @@
 div, span, body, p {
 	font-family: Cabin;
-	letter-spacing: 0.05em;
+	letter-spacing: 0.1em;
 	word-spacing: 1.2em;
 	color: 000000;
 	line-height: 1.6;
@@ -64,7 +64,7 @@ div, span, body, p {
 .fill1 {
 	height: 800px;
 	background-color: #fff;
-	font-size: 12px;
+	font-size: 14px;
 	text-align: center;
 }
 h1 {
@@ -74,6 +74,6 @@ h1 {
 .fill2 {
 	height: 800px;
 	background-color: #fafafa;
-	font-size: 12px;
+	font-size: 14px;
 	text-align: center;
 }
