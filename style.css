@@ -1,7 +1,5 @@
 div, span, body, p {
 	font-family: Cabin;
-	letter-spacing: 0.02em;
-	word-spacing: 0.1em;
 	color: 000000;
 	line-height: 1.6;
 	font-weight: 100;
@@ -19,6 +17,7 @@ h2{
 	list-style-type: none;
 	margin: 0px;
 	padding: 0;
+	overflow: hidden;
 	background-color: #fafafa;
 	position: fixed;
 	top: 0;
@@ -58,20 +57,4 @@ h2{
 #email{
 	bottom: 80px;
 	background-color: #fff;
-}
-/*sections*/
-.bg--fixed {
-	background-image: url('images/default.jpg');
-	height: 100%; 
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: fixed;
-}
-.fill1 {
-
-}
-.fill2 {
-
 }
