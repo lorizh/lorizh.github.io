@@ -16,14 +16,13 @@ div, span, body, p {
 	width: 100%;
 }
 #nav li {
-	display: inline-block;
 	float: left;
 }
 #nav a{
 	display: block;
 	color: #000;
 	text-align: center;
-	padding: 14px 100px;
+	padding: 14px 50px;
 	text-decoration: none;
 }
 #nav a:hover{
