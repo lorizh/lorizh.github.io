@@ -50,3 +50,23 @@ div, span, body, p {
 	bottom: 80px;
 	background-color: #fff;
 }
+/*sections*/
+.bg--fixed {
+	background-image: url("https://themoreitravel.files.wordpress.com/2015/05/p1060456.jpg");
+	min-height: 100%; 
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.fill1 {
+	height: 800px;
+	background-color: #fff;
+	font-size: 12px;
+	justify-content: center;
+	align-items: center;
+}
+h1 {
+	font-size: 50px !important;
+	font-weight: 800 !important;
+}
