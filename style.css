@@ -9,7 +9,7 @@ div, span, body, p {
 /* navigation */
 #nav ul{
 	list-style-type: none;
-	margin: 0px;
+	margin: 0 -100px;
 	padding: 0;
 	overflow: hidden;
 	background-color: #fafafa;
@@ -55,7 +55,7 @@ div, span, body, p {
 /*sections*/
 .bg--fixed {
 	background-image: url('images/default.jpg');
-	min-height: 100%; 
+	height: 100%; 
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
