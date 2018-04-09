@@ -15,7 +15,7 @@ h2{
 /* navigation */
 #nav ul{
 	list-style-type: none;
-	margin: 0px;
+	margin: 0px auto;
 	padding: 0;
 	overflow: hidden;
 	background-color: #fafafa;
@@ -58,5 +58,18 @@ h2{
 	bottom: 80px;
 	background-color: #fff;
 }
+.sections {
+	width: 900px;
+	margin: 0px auto;
+	postion: relative;
+}
+.description {
+	width: 750px;
+	font-size: 12px;
+	margin 5px auto;
+}
 .fill1 {
+	background-color: #616161;
+	width: 100%;
+	padding: 70px 0;
 }
