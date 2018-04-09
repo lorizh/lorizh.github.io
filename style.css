@@ -44,7 +44,7 @@ h2{
 	background-color:#fff;
 }
 #contact a {
-	position: absolute;
+	position: fixed;
 	right: 0px;
 	transition: 0.3s;
 	text-decoration: none;
@@ -56,7 +56,6 @@ h2{
 	right: 10px;
 }
 #email{
-	position: absolute;
 	bottom: 80px;
 	background-color: #fff;
 }
