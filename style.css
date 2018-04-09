@@ -9,6 +9,7 @@ h1 {
 	font-weight: 800;
 	color: #fff;
 	text-align: center;
+	opacity: 0.5;
 }
 h2{
 	font-size: 50px;
@@ -32,6 +33,7 @@ h2{
 	position: fixed;
 	top: 0;
 	width: 100%;
+	opacity: 100%;
 }
 #nav li {
 	float: left;
