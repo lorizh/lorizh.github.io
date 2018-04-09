@@ -85,6 +85,7 @@ h2{
 	background-size: cover;
 	background-color: #d3d3d3;
 	width: auto;
+	min-height: 100%; 
 	padding: 70px 0;
 	
 }
