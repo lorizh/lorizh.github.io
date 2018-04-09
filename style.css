@@ -75,6 +75,7 @@ h2{
 	width: 750px;
 	margin 5px 0;
 	font-size: 12px;
+	float: left;
 	left: 50%;
 }
 .fill1 {
