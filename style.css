@@ -42,12 +42,12 @@ footer {
 	right: 0px;
 	transition: 0.3s;
 	text-decoration: none;
-	padding: 5px;
-	width: 70px;
+	padding: 0;
+	width: 100px;
 }
 
 #contact a:hover {
-	right: 10px;
+	right: 20px;
 }
 #email{
 	bottom: 80px;
