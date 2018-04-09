@@ -75,8 +75,7 @@ h2{
 	width: 750px;
 	margin 5px 0;
 	font-size: 12px;
-	float: left;
-	left: 50%;
+	text-align: center;
 }
 .fill1 {
 	background-image: url(images/default.jpg);
