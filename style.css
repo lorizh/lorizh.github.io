@@ -42,8 +42,8 @@ footer {
 	right: 0px;
 	transition: 0.3s;
 	text-decoration: none;
-	padding: 10px;
-	width: 50px;
+	padding: 5px;
+	width: 70px;
 }
 
 #contact a:hover {
@@ -68,7 +68,7 @@ footer {
 }
 .fill1 {
 	background-color: #d3d3d3;
-	width: 100%;
+	width: 200%;
 	padding: 70px 0;
 }
 .fill2 {
