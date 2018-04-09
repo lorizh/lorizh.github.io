@@ -1,16 +1,15 @@
-div, span, body, p {
+div, span, body, p, a {
 	font-family: Cabin;
 	color: 000000;
 	line-height: 1.6;
 	font-weight: 100;
+	text-decoration: none;
 }
 h1 {
 	font-size: 70px;
 	font-weight: 800;
 	color: #fff;
 	text-align: center;
-	opacity: 0.6;
-	z-index: -1;
 }
 h2{
 	font-size: 50px;
