@@ -16,7 +16,7 @@ h2{
 	margin-bottom: -20px;
 }
 .footer { 
-	background-image: url(images/default.jpg); /*save as bottom of bg img separately*/
+	background-image: url(#); /*save as bottom of bg img separately*/
 	background-color: #1e1e1e;
 	color: #fff;
 	padding: 5px 7px;
