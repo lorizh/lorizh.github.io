@@ -14,7 +14,7 @@ footer {
 	padding: 0;
 	overflow: hidden;
 	background-color: #fafafa;
-	position: absolute;
+	position: fixed;
 	top: 0;
 	width: 100%;
 }
@@ -42,12 +42,12 @@ footer {
 	right: 0px;
 	transition: 0.3s;
 	text-decoration: none;
-	padding: 0;
-	width: 100px;
+	padding-top: 5px;
+	width: 70px;
 }
 
 #contact a:hover {
-	right: 20px;
+	right: 10px;
 }
 #email{
 	bottom: 80px;
@@ -68,7 +68,7 @@ footer {
 }
 .fill1 {
 	background-color: #d3d3d3;
-	width: 200%;
+	width: auto;
 	padding: 70px 0;
 }
 .fill2 {
