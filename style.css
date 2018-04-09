@@ -7,6 +7,15 @@ div, span, body, p {
 footer { 
     display: block;
 }
+h1 {
+	font-size: 70px;
+	font-weight: 800;
+	margin-bottom: -70px;
+}
+h2{
+	font-size: 36px;
+	font-weight: 400;
+}
 /* navigation */
 #nav ul{
 	list-style-type: none;
@@ -53,6 +62,7 @@ footer {
 	bottom: 80px;
 	background-color: #fff;
 }
+/*sections*/
 .sections {
 	width: 900px;
 	margin: 0px auto;
@@ -75,13 +85,4 @@ footer {
 	background-color: #fff;
 	width: 100%;
 	padding: 70px 0;
-}
-h1 {
-	font-size: 70px;
-	font-weight: 800;
-	opacity: 0.8;
-}
-h2{
-	font-size: 36px;
-	font-weight: 400;
 }
