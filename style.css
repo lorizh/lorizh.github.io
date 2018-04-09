@@ -16,10 +16,6 @@ h2{
 .footer { 
 	background-color: #1e1e1e;
 	color: #fff;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	position: absolute;
 }
 /* navigation */
 #nav ul{
