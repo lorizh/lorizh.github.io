@@ -5,7 +5,8 @@ div, span, body, p {
 	font-weight: 100;
 }
 footer { 
-    display: block;
+	display: block;
+	height: 80px;
 }
 h1 {
 	font-size: 70px;
@@ -93,6 +94,5 @@ h2{
 .fill3 {
 	background-color: #d3d3d3;
 	width: auto;
-	height: 80;
 	padding: 70px 0;
 }
