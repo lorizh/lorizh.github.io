@@ -7,6 +7,8 @@ div, span, body, p {
 footer { 
 	display: block;
 	height: 80px;
+	bottom: 0;
+	position: absolute;
 }
 h1 {
 	font-size: 70px;
