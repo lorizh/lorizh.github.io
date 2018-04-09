@@ -3,6 +3,7 @@ div, span, body, p {
 	color: 000000;
 	line-height: 1.6;
 	font-weight: 100;
+	margin: 0;
 }
 h1 {
 	font-size: 70px;
