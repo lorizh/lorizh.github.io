@@ -4,14 +4,6 @@ div, span, body, p {
 	line-height: 1.6;
 	font-weight: 100;
 }
-footer { 
-	background-color: #1e1e1e;
-	color: #fff;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	position: fixed;
-}
 h1 {
 	font-size: 70px;
 	font-weight: 800;
@@ -20,6 +12,14 @@ h1 {
 h2{
 	font-size: 36px;
 	font-weight: 400;
+}
+.footer { 
+	background-color: #1e1e1e;
+	color: #fff;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	position: fixed;
 }
 /* navigation */
 #nav ul{
