@@ -63,7 +63,8 @@ h2{
 	margin: 0px auto;
 	postion: relative;
 	justify-content: center;
-	align-items: flex-start;
+	text-align: center;
+	align-items: center;
 }
 .description {
 	width: 750px;
