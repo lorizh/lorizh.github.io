@@ -34,7 +34,6 @@ h2{
 	top: 0;
 	z-index: 1; 
 	width: 100%;
-	box-shadow: 0 8px 5px -5px #999;
 }
 #nav li {
 	float: left;
@@ -84,7 +83,7 @@ h2{
 	background-color: #fff;
 	font-size: 12px;
 }
-#sidebar a{
+#sidebar a {
 	padding: 5px 15px 5px 15px;
 	text-decoration: none;
 	color: #000;
@@ -93,8 +92,11 @@ h2{
 	color: #A9A9A9;
 	text-decoration: underline #A9A9A9;
 }
+.sb--content{
+	padding: 5px 15px 5px 15px;
+}
 .indent{
-	left-margin: 2em;
+	padding-left: 15px;
 }
 /*sections*/
 .right{
