@@ -75,10 +75,10 @@ h2{
 #sidebar{
 	float:left;
 	width: 30%;
-	height: 100$;
+	height: 100%;
 	postion: fixed;
-	padding-top: 150px;
-	background-color: #111;
+	padding-top: 100px;
+	background-color: #A9A9A9;
 }
 #sidebar a{
 	padding: 5px 10px 5px 15px;
@@ -90,7 +90,7 @@ h2{
 }
 /*sections*/
 .right{
-	padding-top: 70px;
+	padding-top: 100px;
 	margin-left: 30%;
 }
 .sections {
