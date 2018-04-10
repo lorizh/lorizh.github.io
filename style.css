@@ -72,15 +72,18 @@ h2{
 	bottom: 80px;
 	background-color: ;
 }
-.sidebar{
+#sb{
 	float:left;
 	width: 30%;
 	background-color: #fff;
 }
+#sb a
 /*sections*/
 .content--right{
 	margin-left: 30%;
 }
+.sb--link
+
 .sections {
 	width: 900px;
 	margin: 0px auto;
