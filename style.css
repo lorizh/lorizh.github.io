@@ -27,6 +27,7 @@ h2{
 /* navigation */
 .nav--container {
 	width: 100%;
+	overflow-x: hidden;
 }
 #nav ul {
 	list-style-type: none;
