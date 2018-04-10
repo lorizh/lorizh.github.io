@@ -29,12 +29,12 @@ h2{
 	list-style-type: none;
 	margin: 0px auto;
 	padding: 0;
-	overflow-x: hidden;
 	background-color: #fafafa;
 	position: fixed;
 	top: 0;
-	width: 100%;
 	z-index: 1; 
+	width: 100%;
+	overflow-x: hidden;
 }
 #nav li {
 	float: left;
