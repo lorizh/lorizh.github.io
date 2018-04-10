@@ -73,8 +73,8 @@ h2{
 	background-color: ;
 }
 #sidebar{
-	float:left;
-	width: 30%;
+	float: left;
+	width: 25%;
 	height: 100%;
 	postion: fixed;
 	padding-top: 100px;
@@ -82,7 +82,7 @@ h2{
 	color: #000;
 }
 #sidebar a{
-	padding: 5px 10px 5px 15px;
+	padding: 5px 15px 5px 15px;
 	text-decoration: none;
 }
 #sidebar a:hover{
