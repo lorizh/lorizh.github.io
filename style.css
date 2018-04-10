@@ -75,10 +75,10 @@ h2{
 #sidebar{
 	float:left;
 	width: 30%;
-	height: 100$;
+	height: 100%;
 	postion: fixed;
-	padding-top: 150px;
-	background-color: #111;
+	padding-top: 70px;
+	background-color: #C0C0C0;
 }
 #sidebar a{
 	padding: 5px 10px 5px 15px;
@@ -117,7 +117,6 @@ h2{
 .fill2 {
 	background-color: #fafafa;
 	width: 100%;
-	height: 400px;
 	padding: 70px 0 100px;
 }
 
