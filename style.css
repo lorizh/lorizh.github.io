@@ -80,22 +80,17 @@ h2{
 	padding-top: 150px;
 	background-color: #fff;
 }
-#sidebar a, .dd--button a{
+#sidebar a{
 	padding: 5px 10px 5px 15px;
 	text-decoration: none;
 }
-#sidebar a:hover, .dd--button a:hover{
+#sidebar a:hover{
 	color: #A9A9A9;
 	text-decoration: underline #A9A9A9;
 }
-.dropdown {
-}
-.dd--container{
-	display: none;
-	padding left: 10px;
-}
 /*sections*/
 .right{
+	padding-top: 150px;
 	margin-left: 30%;
 }
 .sections {
