@@ -28,14 +28,12 @@ h2{
 #nav ul {
 	background-color: #fafafa;
 	list-style-type: none;
+	margin 0px;
 	padding 0px;
 	position: fixed;
 	top: 0;
 	z-index: 1; 
 	width: 100%;
-	overflow-x: hidden;
-	margin-left: -70px;
-	margin-rightL 70px;
 }
 #nav li {
 	float: left;
