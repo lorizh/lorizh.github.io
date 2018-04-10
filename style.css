@@ -34,7 +34,7 @@ h2{
 	top: 0;
 	z-index: 1; 
 	width: 100%;
-	box-shadow: 0 8px 6px -3px #999;
+	box-shadow: 0 8px 5px -5px #999;
 }
 #nav li {
 	float: left;
