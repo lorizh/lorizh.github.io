@@ -17,9 +17,6 @@ h2{
 	font-weight: 600;
 	margin-bottom: -20px;
 }
-.indent{
-	text-indent: 2em;
-}
 .footer { 
 	background-image: url(#); /*save as bottom of bg img separately*/
 	background-color: #1e1e1e;
@@ -95,6 +92,9 @@ h2{
 #sidebar a:hover{
 	color: #A9A9A9;
 	text-decoration: underline #A9A9A9;
+}
+.indent{
+	left-margin: 2em;
 }
 /*sections*/
 .right{
