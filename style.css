@@ -25,7 +25,10 @@ h2{
 	font-size: 12px;
 }
 /* navigation */
-#nav ul{
+.nav--container {
+	width: 100%;
+}
+#nav ul {
 	list-style-type: none;
 	margin: 0px;
 	padding: 0;
