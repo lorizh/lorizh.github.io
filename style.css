@@ -1,7 +1,7 @@
 div, span, body, p, a {
 	font-family: Cabin;
 	color: 000000;
-	line-height: 1.6;
+	line-height: 1.4;
 	font-weight: 100;
 	text-decoration: none;
 }
@@ -80,7 +80,7 @@ h2{
 	padding-top: 100px;
 	margin-bottom: -7000px;
 	padding-bottom: 7000px;
-	background-color: #A9A9A9;
+	background-color: #000;
 	font-size: 12px;
 }
 #sidebar a{
