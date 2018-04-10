@@ -9,6 +9,7 @@ h1 {
 	font-size: 70px;
 	font-weight: 800;
 	color: #fff;
+	opacity: 0.7;
 	text-align: center;
 }
 h2{
@@ -33,6 +34,7 @@ h2{
 	position: fixed;
 	top: 0;
 	width: 100%;
+	z-index: 1; 
 }
 #nav li {
 	float: left;
@@ -64,12 +66,21 @@ h2{
 
 #contact a:hover {
 	right: 0px;
+	overflow-x: hidden;
 }
 #email{
 	bottom: 80px;
 	background-color: ;
 }
+.sidebar{
+	float:left;
+	width: 30%;
+	background-color: #fff;
+}
 /*sections*/
+.content--right{
+	margin-left: 30%;
+}
 .sections {
 	width: 900px;
 	margin: 0px auto;
