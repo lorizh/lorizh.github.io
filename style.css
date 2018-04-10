@@ -79,6 +79,7 @@ h2{
 	padding-top: 100px;
 	margin-bottom: -7000px;
 	padding-bottom: 7000px;
+	overflow: hidden; 
 	background-color: #000;
 	font-size: 12px;
 }
