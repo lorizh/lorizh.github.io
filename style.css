@@ -114,18 +114,11 @@ h2{
 	font-size: 12px;
 }
 .fill1 {
-	background-image: url(images/default.jpg);
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-image: url(images/default.jpg) #fafafa no-repeat center center fixed; 
 	background-size: cover;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-	background-color: #fafafa;
-	width: auto;
-	padding: 70px 0;
-	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 }
 .fill2 {
 	background-color: #fafafa;
