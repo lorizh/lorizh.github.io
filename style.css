@@ -89,7 +89,7 @@ h2{
 }
 #sidebar a:hover{
 	color: #A9A9A9;
-	text-decoration: underline #A9A9A9;
+	font-style: oblique;
 }
 .sb--content{
 	padding-left: 40px;
