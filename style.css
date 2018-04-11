@@ -110,7 +110,7 @@ h2{
 	font-weight: 400;
 	letter-spacing: 0.12em;
 }
-.summary{
+.description{
 	font-size: 14px;
 	padding-right: 45px;
 }
@@ -118,10 +118,7 @@ h2{
 	width: 900px;
 	margin: 0px auto;
 }
-.description {
-	width: 750px;
-	margin 5px 0;
-	font-size: 12px;
+.about--container{
 }
 .fill1 {
 	background-image: url(images/default.jpg);
