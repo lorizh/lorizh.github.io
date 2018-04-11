@@ -25,15 +25,17 @@ h2{
 	font-size: 12px;
 }
 /* navigation */
+.nav--container {
+	background-color: #fafafa;
+	width: 100%;
+}
 #nav ul{
 	list-style-type: none;
 	margin: 0px auto;
 	padding: 0;
-	overflow-x: hidden;
 	background-color: #fafafa;
 	position: fixed;
 	top: 0;
-	width: 100%;
 	z-index: 1; 
 }
 #nav li {
@@ -93,11 +95,11 @@ h2{
 	text-decoration: underline #A9A9A9;
 }
 .sb--content{
-	padding-left: 15px;
-	padding-right: 20px;
+	padding-left: 5%;
+	padding-right: 10%;
 }
 .indent{
-	padding-left: 20px;
+	padding-left: 10%;
 }
 /*sections*/
 .right{
