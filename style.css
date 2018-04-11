@@ -81,6 +81,7 @@ h2{
 	overflow: hidden; 
 	background-color: #fff;
 	font-size: 14px;
+	letter-spacing: 0.2em;
 }
 #sidebar a {
 	text-decoration: none;
