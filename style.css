@@ -95,11 +95,11 @@ h2{
 	text-decoration: underline #A9A9A9;
 }
 .sb--content{
-	padding-left: 25px;
-	padding-right: 35px;
+	padding-left: 35px;
+	padding-right: 45px;
 }
 .indent{
-	padding-left: 35px%;
+	padding-left: 45px;
 }
 /*sections*/
 .right{
