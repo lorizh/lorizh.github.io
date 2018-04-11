@@ -40,7 +40,7 @@ h2{
 #nav a{
 	display: block;
 	text-decoration: none;
-	font-size: 16px;
+	font-size: 18px;
 	color: #000;
 	text-align: center;
 	padding: 0.6em 3em;
@@ -132,5 +132,5 @@ h2{
 .fill2 {
 	background-color: #fafafa;
 	width: 100%;
-	padding:;
+	margin-top: 15%vh;
 }
