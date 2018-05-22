@@ -76,7 +76,7 @@ h2{
 #sidebar{
 	float: left;
 	width: 25%;
-	height: 100vh;
+	height: 100%;
 	postion: fixed;
 	padding-top: 100px;
 	margin-bottom: -7000px;
@@ -97,6 +97,7 @@ h2{
 .sb--content{
 	padding-left: 40px;
 	padding-right: 45px;
+	height: 100%;
 }
 .indent{
 	padding-left: 15px;
