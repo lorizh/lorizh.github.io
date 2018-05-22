@@ -89,11 +89,11 @@ h2{
 	font-size: 14px;
 	letter-spacing: 0.12em;
 }
-#sidebar, description a {
+#sidebar a {
 	text-decoration: none;
 	color: #000;
 }
-#sidebar, description a:hover{
+#sidebar a:hover{
 	color: #A9A9A9;
 	font-style: oblique;
 }
@@ -118,6 +118,14 @@ h2{
 .description{
 	font-size: 14px;
 	padding-right: 45px;
+}
+#sidebar, description a {
+	text-decoration: none;
+	color: #000;
+}
+#sidebar, description a:hover{
+	color: #A9A9A9;
+	font-style: oblique;
 }
 .sections {
 	width: 900px;
