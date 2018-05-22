@@ -79,8 +79,6 @@ h2{
 	height: 100%;
 	postion: fixed;
 	padding-top: 100px;
-	margin-bottom: -7000px;
-	padding-bottom: 7000px;
 	overflow: hidden; 
 	background-color: #fff;
 	font-size: 14px;
@@ -98,6 +96,8 @@ h2{
 	padding-left: 40px;
 	padding-right: 45px;
 	height: 100%;
+	margin-bottom: -7000px;
+	padding-bottom: 7000px;
 }
 .indent{
 	padding-left: 15px;
