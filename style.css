@@ -19,14 +19,11 @@ h2{
 	opacity: 0.8;
 }
 .footer { 
-	background-image: url("https://i.imgur.com/aL00ILc.png"); /*save as bottom of bg img separately*/
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-image: url("https://i.imgur.com/8IXyOK4.png"); /*save as bottom of bg img separately*/
 	width: auto;
 	background-color: #1e1e1e;
 	color: #fff;
-	padding: 1px 7px;
+	padding-bottom:-7px;
 	font-size: 10px;
 }
 /* navigation */
