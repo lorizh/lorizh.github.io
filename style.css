@@ -79,11 +79,10 @@ h2{
 	height: 100%;
 	postion: fixed;
 	padding-top: 100px;
-	padding-right: 45px;
 	margin-bottom: -7000px;
 	padding-bottom: 7000px;
 	overflow: hidden; 
-	background-color: #f0f;
+	background-color: #f44336;
 	font-size: 14px;
 	letter-spacing: 0.12em;
 }
@@ -97,6 +96,7 @@ h2{
 }
 .sb--content{
 	padding-left: 40px;
+	padding-right: 45px;
 	height: 100%;
 }
 .indent{
@@ -105,8 +105,7 @@ h2{
 /*sections*/
 .right{
 	padding-top: 100px;
-	padding-right: 45px;
-	margin-left: 30%;
+	padding-right: 30%;
 }
 .title{
 	font-size: 18px;
