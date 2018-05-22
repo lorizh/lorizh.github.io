@@ -115,6 +115,7 @@ h2{
 .description{
 	font-size: 14px;
 	padding-right: 45px;
+	text-indent: none;
 }
 .description a {
 	color: #f44336;
