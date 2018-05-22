@@ -105,7 +105,9 @@ h2{
 /*sections*/
 .right{
 	padding-top: 100px;
-	padding-right: 30%;
+	padding-left: 45px;
+	padding-right: 45px;
+	margin-left: 30%;
 }
 .title{
 	font-size: 18px;
