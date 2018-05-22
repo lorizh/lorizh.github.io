@@ -121,7 +121,7 @@ h2{
 }
 .description a:hover{
 	color: #A9A9A9;
-	font-style: oblique;
+	font-weight: bold;
 }
 .sections {
 	width: 900px;
