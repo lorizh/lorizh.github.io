@@ -76,7 +76,7 @@ h2{
 #sidebar{
 	float: left;
 	width: 25%;
-	height: 100%;
+	height: 100vh;
 	postion: fixed;
 	padding-top: 100px;
 	margin-bottom: -7000px;
